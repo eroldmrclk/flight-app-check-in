@@ -12,7 +12,7 @@
 ![check-in-5](https://github.com/eroldmrclk/flight-app-check-in/blob/master/images/check-in-5.png)
 
 ## Database Diagram
-![database-diagram](https://github.com/eroldmrclk/flight-app-company-interface/blob/master/images/database-diagram.png)
+![database-diagram](https://github.com/eroldmrclk/flight-app-check-in/blob/master/images/db-diagram.png)
 
 ## Other Interfaces of the Flight App
 [Click](https://github.com/eroldmrclk/flight-app-company-interface) view to **flight-app-company-interface**. <br>
