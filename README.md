@@ -16,4 +16,4 @@
 
 ## Other Interfaces of the Flight App
 [Click](https://github.com/eroldmrclk/flight-app-company-interface) view to **flight-app-company-interface**. <br>
-[Click](https://github.com/eroldmrclk/flight-app-sale-ticket) view to **flight-app-sale-ticket** interface. <br>
+[Click](https://github.com/eroldmrclk/flight-app-sale-ticket) view to **flight-app-sale-ticket**.
